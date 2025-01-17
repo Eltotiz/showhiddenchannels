@@ -25,3 +25,8 @@
 
 - **Optionally, you can use your account's token, make sure to remove the "Bot" in line 69. [(How to obtain your account token)](https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6)**
 
+# Image and Test
+<p alight="center">
+<a href="https://github.com/Eltotiz/showhiddenchannels"><img title="DiscordBug" src="images/TokenBot.png"></a>
+<a href="https://github.com/Eltotiz/showhiddenchannels"><img title="DiscordBug" src="images/Script.png"></a>
+</p>
