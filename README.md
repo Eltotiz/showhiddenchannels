@@ -14,3 +14,4 @@
 <a href="https://www.youtube.com/@TotizDev"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Totiz Dev-blue?style=for-the-badge&logo=Youtube"></a>
 
 <h2 align="center">SHOW HIDDEN CHANNELS - DISCORD BUG</h2>
+<p align="center">Within Discord, it is possible to make API queries (v6-v10) that allow you to view channels which, for technical reasons, would not be visible within the app itself. While this may be considered a bug, Discord currently treats it as non-private information</p>
